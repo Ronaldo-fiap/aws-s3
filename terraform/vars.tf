@@ -1,3 +1,3 @@
 variable "bucket_name" {
-  default = "aws-s3-tfstate-ronaldoattamah"
+  default = "aws-s3-tfstate-bucketronaldo"
 }
